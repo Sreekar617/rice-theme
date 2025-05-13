@@ -1,4 +1,5 @@
 ---
 ---
 
-# tonic-starter
+# rice theme
+ts theme kinda kevin so far ngl
